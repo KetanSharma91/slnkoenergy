@@ -125,6 +125,10 @@ html {
         width: inherit !important;
     }
 
+    .services .col {
+        width: 100%;
+    }
+
     .mb3 .row .col-2 {
         width: 60px;
     }
